@@ -29,21 +29,22 @@ The Customer Feedback & Sentiment Analysis Dashboard is an interactive Power BI 
 
 ## Dashboard
 <img width="957" height="797" alt="Employee Sentiment Dashboard" src="https://github.com/user-attachments/assets/afbfed1d-c946-4ba8-b659-d1f24ee042c7" />
-### Question KPIs
+
+#### Question KPIs
 - Total Customers
 - Average Customer Rating
 - Average Response Time
 - Total Issues Resolved
 - Total Complaints Registered
 - Total Positive Sentiment
-### Business Questions
+#### Business Questions
 - Identify the highest and lowest-rated product categories.
 - Compare customer engagement across different platforms.
 - Analyze the distribution of customer sentiment.
 - Monitor complaint trends by region.
 - Evaluate customer support response time.
 - Track issue resolution performance.
-### Slicers
+#### Slicers
 - Gender
 - Age Group
 - Region
