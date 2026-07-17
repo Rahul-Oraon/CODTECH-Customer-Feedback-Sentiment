@@ -2,7 +2,7 @@
 -	INTERN ID: CITS5152
 -	NAME: RAHUL ORAON
 -	NO. OF WEEKS: 4 WEEKS
--	PROJECT NAME: EMPLOYEE FEEDBACK SENTIMENT
+-	PROJECT NAME: CUSTOMER FEEDBACK SENTIMENT
 -	
 ## Project Overview
 The Customer Feedback & Sentiment Analysis Dashboard is an interactive Power BI project designed to analyze customer reviews, ratings, complaints, and service performance. The dashboard helps businesses understand customer satisfaction, identify areas for improvement, and monitor product and platform performance through visual analytics.
